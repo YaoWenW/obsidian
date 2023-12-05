@@ -1,0 +1,210 @@
+{
+  "workspaces": {
+    "任务管理": {
+      "main": {
+        "id": "a6104b05f1656a6d",
+        "type": "split",
+        "children": [
+          {
+            "id": "19511a20dcb6f1dc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "162658a77a2575f8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "dashboard/计划中.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "df35d3170b70b6ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "63ae1ec41f39db2b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "dashboard/已完成.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "338809e126cd4d8e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a2bfe1923394fb67",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "dashboard/进行中.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "84a87323c448f05d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f79f51ea25ed6b58",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "dashboard/已放弃.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "7111c4c044982be2",
+        "type": "split",
+        "children": [
+          {
+            "id": "89cef8cff47c8b51",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6f2c213b846ea2ac",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "904c4647efb719bf",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#学习笔记",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d3a0ddddb7c80346",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "9d85b5e7fcd73fa7",
+        "type": "split",
+        "children": [
+          {
+            "id": "3e4d526588674ccf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7cd64a08fb790480",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "dashboard/已完成.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b28ae59dc0c1382b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "dashboard/已完成.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e9e57db141677d1d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "9df77f0cca656d68",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "dashboard/已完成.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "63ae1ec41f39db2b"
+    }
+  },
+  "active": "任务管理"
+}

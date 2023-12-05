@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "a6104b05f1656a6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "338809e126cd4d8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2bfe1923394fb67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-领域/Obsidian笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7111c4c044982be2",
+    "type": "split",
+    "children": [
+      {
+        "id": "89cef8cff47c8b51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f2c213b846ea2ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "904c4647efb719bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#学习笔记",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3a0ddddb7c80346",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d85b5e7fcd73fa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e4d526588674ccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cd64a08fb790480",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04-领域/Obsidian笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b28ae59dc0c1382b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04-领域/Obsidian笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9e57db141677d1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9df77f0cca656d68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04-领域/Obsidian笔记.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "a2bfe1923394fb67",
+  "lastOpenFiles": [
+    "新建文本文档.txt",
+    "05-附件/Pasted image 20231205204110.png",
+    "04-领域/练习2.md",
+    "03-项目",
+    "04-领域/练习.md",
+    "04-领域/我的工作日记.md",
+    "04-领域/Obsidian笔记.md",
+    "未命名.canvas",
+    "01-日志",
+    "04-资源",
+    "04-资源/模板/笔记模板.md",
+    "04-资源/dashboard/进行中.md",
+    "04-资源/dashboard/已完成.md",
+    "04-资源/dashboard/计划中.md",
+    "04-资源/dashboard/已放弃.md",
+    "04-资源/模板/日记模板.md",
+    "04-资源/dashboard",
+    "01-日志/日记/2023-12-05.md",
+    "04-领域",
+    "05-附件/文献综述调研.docx",
+    "05-附件/Python编程：从入门到实践.pdf",
+    "05-附件/Pasted image 20231205195626.png",
+    "05-附件/00prob.csv",
+    "Pasted image 20231205195506.png",
+    "05-附件",
+    "Pasted image 20231205195455.png",
+    "04-资源/模板"
+  ]
+}
